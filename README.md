@@ -8,6 +8,7 @@ Features
 2. Efficient backtracking algorithm
 3. Command-line interface for inputting Sudoku puzzles
 4. Outputs the solved puzzle or notifies if it's unsolvable
+   
 Usage
 1. Clone this repository to your local machine.
 2. Compile the source code using your preferred C++ compiler.
