@@ -16,6 +16,7 @@ Usage
 5. The solver will output the solved puzzle or notify if it's unsolvable.
 
 Enter the unsolved Sudoku puzzle (Please enter the values in form of rows, one at a time with space in between two numbers in adajacent squares.):
+
 5 3 0 0 7 0 0 0 0
 
 6 0 0 1 9 5 0 0 0
@@ -36,6 +37,7 @@ Enter the unsolved Sudoku puzzle (Please enter the values in form of rows, one a
 
 
 Solved Sudoku puzzle:
+
 5 3 4 6 7 8 9 1 2 
 
 6 7 2 1 9 5 3 4 8 
