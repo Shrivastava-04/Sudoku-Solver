@@ -1,5 +1,4 @@
 # Sudoku-Solver
-Sudoku Solver
 Overview:-
 This is a Sudoku solver implemented in C++. It can solve standard 9x9 Sudoku puzzles using a backtracking algorithm.
 
